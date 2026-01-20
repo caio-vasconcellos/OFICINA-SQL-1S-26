@@ -1,18 +1,16 @@
 # Atividade prática: Descobrir quem é culpado pelo assassinato
 
-## O Assassinato no Hotel Azure
+## O Assassinato na Área VIP
 Fatos conhecidos:
 
-Vítima: Clara Montenegro, quarto 305, morta em 15/10/2023 entre 20h e 22h.
+Vítima: Treinador Marcus, encontrado na Área VIP da Academia, morto na Quarta-feira entre 19:30h e 20:30h.
 
 Pistas principais:
 
-- Uma substância química (clorofórmio) foi encontrada no quarto.
+Uma pegada foi encontrada no tapete, medindo entre 39 e 41.
 
-- Uma testemunha não confiável mencionou um homem de terno azul.
+Um fio de cabelo preto foi coletado próximo ao corpo.
 
-- O assassino tinha acesso ao cofre da vítima.
+O assassino utilizou um Cartão Tech para invadir a sala e deixou um frasco de Perfume Importado no local.
 
-## Acessar o servidor remoto e entrar no banco de dados Mistério para realizar as consultas
-
-Para visualizar as credenciais de acesso [Clique aqui](./Server-config/README.md)
+Uma testemunha ocular relatou ter visto um homem de chapéu coco circulando no prédio, mas não soube precisar o horário.
