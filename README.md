@@ -28,7 +28,7 @@ Tutorial de instalação do XAMPP ( Software gratuito e de código aberto que pe
 ## Contato:
 
 - Quaisquer dúvidas, entrar em contato conosco através do seguintes e-mails ou através de um chat privado no Teams:
-  - Caio Pires Vasconcellos (caio.vasconcellos@fatec.sp.gov.br  (
+  - Caio Pires Vasconcellos (caio.vasconcellos@fatec.sp.gov.br)
   - Filipe Mandelli Queroz (Filipe.queroz@fatec.sp.gov.br )
   - Mateus Augusto da Silva Ernesto (mateus.ernesto@fatec.sp.gov.br)
   - Luan Pascoal do Bem Silva (luan.silva131@fatec.sp.gov.br)
