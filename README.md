@@ -15,8 +15,10 @@ Tutorial de como abrir o script e criar o banco de dados, para realizar os exerc
 - 📄 Acesse o conteúdo visto no 1º dia: [SELECT, FROM](./aula1/)
 - 📄 Acesse o conteúdo visto no 2º dia: [WHERE, LIKE, DISTINCT, TOP e ORDER BY](./aula2/)
 - 📄 Acesse o conteúdo visto no 3º dia: [CREATE, INSERT, UPDATE e DELETE](./aula3/)
-- 📄 Acesse o conteúdo visto no 4º dia: [O MISTÉRIO DO QUARTO 305](./aula4/)
-- 📄 Acesse o conteúdo visto no 5º dia: [COUNT, SUM, AVG, MIN, MAX e GROUPBY](./aula5/)
+- 📄 Acesse o conteúdo visto no 4º dia: [COUNT, SUM, AVG, MIN, MAX e GROUPBY](./aula4/)
+- 📄 Acesse o conteúdo visto no 5º dia: [JOINS](./aula5/)
+- 📄 Acesse o conteúdo visto no 6º dia: [QUIZ](./aula6/)
+- 📄 Acesse o conteúdo visto no 7º dia: [PROJETO](./aula7/)
 
 ## Como conectar ao Banco de Dados?
 
@@ -26,9 +28,13 @@ Tutorial de como abrir o script e criar o banco de dados, para realizar os exerc
 
 - Quaisquer dúvidas, entrar em contato conosco através do seguintes e-mails ou através de um chat privado no Teams:
   - Caio Pires Vasconcellos (caio.vasconcellos@fatec.sp.gov.br  (
-  - Filipe Mandelli Queroz ( )
-  - Mateus Augusto da Silva Ernesto ( )
-  - Victor Lorenzo Castro Rorigues (victor.rodrigues41@fatec.sp.gov.br)
+  - Filipe Mandelli Queroz (Filipe.queroz@fatec.sp.gov.br )
+  - Mateus Augusto da Silva Ernesto (mateus.ernesto@fatec.sp.gov.br)
+  - Luan Pascoal do Bem Silva (luan.silva131@fatec.sp.gov.br)
+ 
+- CONTATO DOS CRIADORES DO MATERIAL:
+    - Mateus Monteiro da Costa (mateus.costa24@fatec.sp.gov.br)
+    - Victor Lorenzo Castro Rorigues (victor.rodrigues41@fatec.sp.gov.br)
 
 ## Materiais adicionais:
 
