@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-- A oficina tem como objetivo apresentar os principais conceitos de banco de dados, como entidade e relacionamento e modelagem de dados, além de atividas práticas como criação de consultas e restauração de banco de dados.
+- A oficina tem como objetivo apresentar os principais conceitos de banco de dados, como entidade e relacionamento e modelagem de dados, além de atividades práticas como criação de consultas e restauração de banco de dados.
 
 ## Como acessar os materiais?
 
@@ -11,18 +11,19 @@ Tutorial de instalação do SQL Server e SQL Server Management Studio: [Youtube:
 Script de criação do Banco de Dados: [Tabelas para praticar consultas](./Script-EMPRESA.sql)
 
 Tutorial de como abrir o script e criar o banco de dados, para realizar os exercicios das aulas: [Como baixar os arquivos das aulas e exercícios do workshop SQL Essencial.](https://www.youtube.com/watch?v=jCjeDQikpac)
-- Todos os conteúdos estarão presentes neste repositório (scripts criados em sala e exercícios) e no Teams.
-- 📄 Acesse o conteúdo visto no 1º dia: [SELECT, FROM](./aula1/)
-- 📄 Acesse o conteúdo visto no 2º dia: [WHERE, LIKE, DISTINCT, TOP e ORDER BY](./aula2/)
-- 📄 Acesse o conteúdo visto no 3º dia: [CREATE, INSERT, UPDATE e DELETE](./aula3/)
-- 📄 Acesse o conteúdo visto no 4º dia: [COUNT, SUM, AVG, MIN, MAX e GROUPBY](./aula4/)
-- 📄 Acesse o conteúdo visto no 5º dia: [JOINS](./aula5/)
-- 📄 Acesse o conteúdo visto no 6º dia: [QUIZ](./aula6/)
-- 📄 Acesse o conteúdo visto no 7º dia: [PROJETO](./aula7/)
 
-## Como conectar ao Banco de Dados?
+Tutorial de instalação do XAMPP ( Software gratuito e de código aberto que permite criar um servidor web local em seu computador, importante pois será ele que simulará um ambiente de servidor em seu computador ) : [Curso MySQL #02b - Instalando o XAMPP](https://youtu.be/R2HrwSQ6EPM?si=JrPsZdXFiHbORJU8).
 
-🔓 [Credenciais de acesso](./Server-config/README.md)
+## Cronograma:
+| Aula | Conteúdo | Material |
+|------|----------|----------|
+| 1 | SELECT, FROM | [📄 Aula 1](./aula1/) |
+| 2 | WHERE, LIKE, DISTINCT, TOP, ORDER BY | [📄 Aula 2](./aula2/) |
+| 3 | CREATE, INSERT, UPDATE, DELETE | [📄 Aula 3](./aula3/) |
+| 4 | COUNT, SUM, AVG, MIN, MAX, GROUP BY | [📄 Aula 4](./aula4/) |
+| 5 | JOINS | [📄 Aula 5](./aula5/) |
+| 6 | QUIZ | [📄 Aula 6](./aula6/) |
+| 7 | PROJETO FINAL | [📄 Aula 7](./aula7/) |
 
 ## Contato:
 
