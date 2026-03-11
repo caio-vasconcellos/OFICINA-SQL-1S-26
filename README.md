@@ -4,7 +4,9 @@
 
 - A oficina tem como objetivo apresentar os principais conceitos de banco de dados, como entidade e relacionamento e modelagem de dados, além de atividades práticas como criação de consultas e restauração de banco de dados.
 
-## Ao participar, o aluno autoriza o uso e divulgação de sua imagem e voz para publicações feitas pela instituição e pelo instrutor (em seus canais de comunicação).
+
+### Ao participar, o aluno autoriza o uso e divulgação de sua imagem e voz para publicações feitas pela instituição e pelo instrutor (em seus canais de comunicação).
+
 
 ## Como acessar os materiais?
 
