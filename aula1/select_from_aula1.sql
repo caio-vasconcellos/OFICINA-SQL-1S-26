@@ -21,17 +21,3 @@ SELECT NumPed, Frete FROM Pedidos;
 SELECT Nome, Regiao FROM Clientes
 WHERE Regiao = 'SP';
 
-
-/* Exercícios para praticar */
-
--- 1: Selecione Nome e Cidade dos clientes que moram no estado de Sergipe ('SE').
--- Dica: SELECT Nome, Cidade FROM Clientes WHERE Regiao = 'SE';
-
--- 2: Selecione todos os dados do pedido de NumPed igual a 1010.
--- Dica: SELECT * FROM Pedidos WHERE NumPed = 1010;
-
--- 3: Selecione o Nome e o Cargo de todos os Funcionários.
--- Dica: SELECT Nome, Cargo FROM Funcionarios;
-
--- 4: Crie uma consulta da sua escolha utilizando a tabela de Produtos para ver itens com preço maior que 20.
--- Dica: SELECT * FROM Produtos WHERE Preco > 20;
